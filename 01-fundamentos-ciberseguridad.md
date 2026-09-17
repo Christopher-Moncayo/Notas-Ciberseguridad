@@ -1,6 +1,6 @@
 # 🛡️ 01. Fundamentos de Ciberseguridad
 
-> ¡Hola! En este primer curso me enfoqué en construir los cimientos: entender qué hace realmente un analista de seguridad en su día a día (lejos del mito de hacker de la nasa jaja), cómo se estructuran las defensas con la tríada CIA[cite: 1] y cuáles son los vectores de ataque más comunes como el phishing y el malware.  
+> ¡Hola! En este primer curso me enfoqué en construir los cimientos: entender qué hace realmente un analista de seguridad en su día a día (lejos del mito de hacker de la nasa jaja), cómo se estructuran las defensas con la tríada CIA y cuáles son los vectores de ataque más comunes como el phishing y el malware.  
 > 
 > Aquí pues escribí y ordene mis apuntes en limpio, organizando los marcos teóricos y las herramientas clave para tener siempre a mano una referencia rápida y clara de lo aprendido.
 
