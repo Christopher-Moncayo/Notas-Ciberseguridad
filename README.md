@@ -4,7 +4,7 @@
 > 
 > Mi objetivo es transparentar mi proceso de formación, metodologías de análisis y competencias técnicas para integrarme al sector en roles de entrada (**SOC Analyst Jr, Trainee, Soporte TI o NOC**).  
 > 
-> 📫 Conectemos en [LinkedIn](https://www.linkedin.com/in/christopher-moncayo-82b528383/) para conversar sobre proyectos u oportunidades.
+> 📫 Conectemos en [LinkedIn](https://www.linkedin.com/in/christopher-adrian-moncayo-artunduaga-404641222/) para conversar sobre proyectos u oportunidades.
 
 ## 🗺️ Mapa de Progreso
 
