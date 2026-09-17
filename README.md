@@ -1,5 +1,10 @@
 # Notas-Ciberseguridad
-Notas y documentación de mi camino de aprendizaje en ciberseguridad — Google Cybersecurity Certificate y más
+> 👋 **¡Hola y bienvenido a mi repositorio!**  
+> Este espacio funciona como mi bitácora técnica de aprendizaje continuo en ciberseguridad. Aquí documento de forma práctica y estructurada cada módulo completado (Google Cybersecurity Certificate y proyectos complementarios), cubriendo fundamentos defensivos, gestión de logs, redes, Linux y operaciones en entornos SOC.  
+> 
+> Mi objetivo es transparentar mi proceso de formación, metodologías de análisis y competencias técnicas para integrarme al sector en roles de entrada (**SOC Analyst Jr, Trainee, Soporte TI o NOC**).  
+> 
+> 📫 Conectemos en [LinkedIn](https://www.linkedin.com/in/christopher-moncayo-82b528383/) para conversar sobre proyectos u oportunidades.
 
 ## 🗺️ Mapa de Progreso
 
